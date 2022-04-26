@@ -1,3 +1,4 @@
+#para sa mga jinowa pero hindi pinili
 import pygame
 import time
 import random
